@@ -3,4 +3,4 @@
 ### 1. Desenvolver uma pizzaria online que seja responsiva e utilize html , css e javaScript.  
 ### Fotos do Sistema Web
 
-pizzaria1.jpg
+![Alt text](./pizzaria1.jpg)
